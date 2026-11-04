@@ -1,0 +1,360 @@
+[
+  {
+    "min_support": 0.01,
+    "min_support_percent": 1.0,
+    "num_transactions": 7501,
+    "execution_time": 1.0774002075195312,
+    "total_frequent_itemsets": 261,
+    "length_distribution": {
+      "1": 74,
+      "2": 170,
+      "3": 17
+    },
+    "top_itemsets": [
+      {
+        "items": [
+          "минеральная вода"
+        ],
+        "support": 0.23836821757099053,
+        "support_percent": 23.836821757099052
+      },
+      {
+        "items": [
+          "макароны"
+        ],
+        "support": 0.18797493667510998,
+        "support_percent": 18.797493667511
+      },
+      {
+        "items": [
+          "яйца"
+        ],
+        "support": 0.17970937208372217,
+        "support_percent": 17.970937208372217
+      },
+      {
+        "items": [
+          "картофель-фри"
+        ],
+        "support": 0.1709105452606319,
+        "support_percent": 17.09105452606319
+      },
+      {
+        "items": [
+          "шоколад"
+        ],
+        "support": 0.1638448206905746,
+        "support_percent": 16.38448206905746
+      },
+      {
+        "items": [
+          "зеленый чай"
+        ],
+        "support": 0.13211571790427942,
+        "support_percent": 13.211571790427943
+      },
+      {
+        "items": [
+          "молоко"
+        ],
+        "support": 0.12958272230369283,
+        "support_percent": 12.958272230369284
+      },
+      {
+        "items": [
+          "говяжий фарш"
+        ],
+        "support": 0.09825356619117451,
+        "support_percent": 9.82535661911745
+      },
+      {
+        "items": [
+          "замороженные овощи"
+        ],
+        "support": 0.09532062391681109,
+        "support_percent": 9.532062391681109
+      },
+      {
+        "items": [
+          "блинчики"
+        ],
+        "support": 0.09505399280095987,
+        "support_percent": 9.505399280095988
+      }
+    ]
+  },
+  {
+    "min_support": 0.03,
+    "min_support_percent": 3.0,
+    "num_transactions": 7501,
+    "execution_time": 0.22220563888549805,
+    "total_frequent_itemsets": 55,
+    "length_distribution": {
+      "1": 36,
+      "2": 19
+    },
+    "top_itemsets": [
+      {
+        "items": [
+          "минеральная вода"
+        ],
+        "support": 0.23836821757099053,
+        "support_percent": 23.836821757099052
+      },
+      {
+        "items": [
+          "макароны"
+        ],
+        "support": 0.18797493667510998,
+        "support_percent": 18.797493667511
+      },
+      {
+        "items": [
+          "яйца"
+        ],
+        "support": 0.17970937208372217,
+        "support_percent": 17.970937208372217
+      },
+      {
+        "items": [
+          "картофель-фри"
+        ],
+        "support": 0.1709105452606319,
+        "support_percent": 17.09105452606319
+      },
+      {
+        "items": [
+          "шоколад"
+        ],
+        "support": 0.1638448206905746,
+        "support_percent": 16.38448206905746
+      },
+      {
+        "items": [
+          "зеленый чай"
+        ],
+        "support": 0.13211571790427942,
+        "support_percent": 13.211571790427943
+      },
+      {
+        "items": [
+          "молоко"
+        ],
+        "support": 0.12958272230369283,
+        "support_percent": 12.958272230369284
+      },
+      {
+        "items": [
+          "говяжий фарш"
+        ],
+        "support": 0.09825356619117451,
+        "support_percent": 9.82535661911745
+      },
+      {
+        "items": [
+          "замороженные овощи"
+        ],
+        "support": 0.09532062391681109,
+        "support_percent": 9.532062391681109
+      },
+      {
+        "items": [
+          "блинчики"
+        ],
+        "support": 0.09505399280095987,
+        "support_percent": 9.505399280095988
+      }
+    ]
+  },
+  {
+    "min_support": 0.05,
+    "min_support_percent": 5.0,
+    "num_transactions": 7501,
+    "execution_time": 0.10719180107116699,
+    "total_frequent_itemsets": 28,
+    "length_distribution": {
+      "1": 25,
+      "2": 3
+    },
+    "top_itemsets": [
+      {
+        "items": [
+          "минеральная вода"
+        ],
+        "support": 0.23836821757099053,
+        "support_percent": 23.836821757099052
+      },
+      {
+        "items": [
+          "макароны"
+        ],
+        "support": 0.18797493667510998,
+        "support_percent": 18.797493667511
+      },
+      {
+        "items": [
+          "яйца"
+        ],
+        "support": 0.17970937208372217,
+        "support_percent": 17.970937208372217
+      },
+      {
+        "items": [
+          "картофель-фри"
+        ],
+        "support": 0.1709105452606319,
+        "support_percent": 17.09105452606319
+      },
+      {
+        "items": [
+          "шоколад"
+        ],
+        "support": 0.1638448206905746,
+        "support_percent": 16.38448206905746
+      },
+      {
+        "items": [
+          "зеленый чай"
+        ],
+        "support": 0.13211571790427942,
+        "support_percent": 13.211571790427943
+      },
+      {
+        "items": [
+          "молоко"
+        ],
+        "support": 0.12958272230369283,
+        "support_percent": 12.958272230369284
+      },
+      {
+        "items": [
+          "говяжий фарш"
+        ],
+        "support": 0.09825356619117451,
+        "support_percent": 9.82535661911745
+      },
+      {
+        "items": [
+          "замороженные овощи"
+        ],
+        "support": 0.09532062391681109,
+        "support_percent": 9.532062391681109
+      },
+      {
+        "items": [
+          "блинчики"
+        ],
+        "support": 0.09505399280095987,
+        "support_percent": 9.505399280095988
+      }
+    ]
+  },
+  {
+    "min_support": 0.1,
+    "min_support_percent": 10.0,
+    "num_transactions": 7501,
+    "execution_time": 0.013176918029785156,
+    "total_frequent_itemsets": 7,
+    "length_distribution": {
+      "1": 7
+    },
+    "top_itemsets": [
+      {
+        "items": [
+          "минеральная вода"
+        ],
+        "support": 0.23836821757099053,
+        "support_percent": 23.836821757099052
+      },
+      {
+        "items": [
+          "макароны"
+        ],
+        "support": 0.18797493667510998,
+        "support_percent": 18.797493667511
+      },
+      {
+        "items": [
+          "яйца"
+        ],
+        "support": 0.17970937208372217,
+        "support_percent": 17.970937208372217
+      },
+      {
+        "items": [
+          "картофель-фри"
+        ],
+        "support": 0.1709105452606319,
+        "support_percent": 17.09105452606319
+      },
+      {
+        "items": [
+          "шоколад"
+        ],
+        "support": 0.1638448206905746,
+        "support_percent": 16.38448206905746
+      },
+      {
+        "items": [
+          "зеленый чай"
+        ],
+        "support": 0.13211571790427942,
+        "support_percent": 13.211571790427943
+      },
+      {
+        "items": [
+          "молоко"
+        ],
+        "support": 0.12958272230369283,
+        "support_percent": 12.958272230369284
+      }
+    ]
+  },
+  {
+    "min_support": 0.15,
+    "min_support_percent": 15.0,
+    "num_transactions": 7501,
+    "execution_time": 0.007391691207885742,
+    "total_frequent_itemsets": 5,
+    "length_distribution": {
+      "1": 5
+    },
+    "top_itemsets": [
+      {
+        "items": [
+          "минеральная вода"
+        ],
+        "support": 0.23836821757099053,
+        "support_percent": 23.836821757099052
+      },
+      {
+        "items": [
+          "макароны"
+        ],
+        "support": 0.18797493667510998,
+        "support_percent": 18.797493667511
+      },
+      {
+        "items": [
+          "яйца"
+        ],
+        "support": 0.17970937208372217,
+        "support_percent": 17.970937208372217
+      },
+      {
+        "items": [
+          "картофель-фри"
+        ],
+        "support": 0.1709105452606319,
+        "support_percent": 17.09105452606319
+      },
+      {
+        "items": [
+          "шоколад"
+        ],
+        "support": 0.1638448206905746,
+        "support_percent": 16.38448206905746
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install *)",
+      "PowerShell(python experiments.py)",
+      "PowerShell(python generate_report.py)"
+    ]
+  }
+}
